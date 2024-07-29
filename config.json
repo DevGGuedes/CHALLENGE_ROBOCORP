@@ -1,0 +1,10 @@
+{
+    "application_name": "CHALLENGE_ROBOCORP",
+    "version": "1.0",
+    "UrlSite": "https://www.latimes.com/",
+    "Wait": "50",
+
+    "XpathButtonSearech":"/html/body/ps-header/header/div[2]/button",
+    "XpathInputSearch":"/html/body/ps-header/header/div[2]/button",
+    "XpathFormSearch":"/html/body/ps-header/header/div[2]/div[2]/form/button"
+}
